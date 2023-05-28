@@ -1,0 +1,93 @@
+Que son los atributos?
+----------------------
+
+Objeto   Atributos
+------   ---------
+
+Moto - 2 ruedas
+     - 1 asiento
+     - 2 espejos
+
+Auto - 4 ruedas
+     - 3 asientos
+     - 3 espejos
+
+Tipos de Datos:
+***************
+
+Datos Primitivos
+----------------
+
+Para declarar un numero entero:
+
+byte,short,int,long << Para numeros enteros
+float,double << Para numeros con coma
+boolean << True o False
+String << Cadena de Caracteres
+char << un solo caracter
+
+Simplificacion
+--------------
+int,float,string,double,char
+
+Datos Dinamicos
+---------------
+Los datos que escribo yo, con el teclado
+
+Operadores Matematicos
+**********************
+Suma +
+Resta -
+Division /
+Multiplicacion *
+Modulo % (Lo vamos a ver la clase 2)
+
+Operadores Logicos
+******************
+! : NOT
+> : Mayor
+< : Menor
+>= : Mayor igual
+<= : Menor igual
+!= : Distinto (10!=10)
+XOR ‘^’
+True  True = False
+False False = False
+True False = True
+False True = False
+
+&& : Doble ampersan:
+	Si tengo dos o mas condiciones, todas deben ser True, si una sola condicion 
+	es falsa, devuelve falso.
+
+|| (alt+124) : Doble barra
+	Si tengo dos o mas condiciones, con que una sola condicion sea verdadera, devuelve
+	verdadero.
+
+Java Es Fuertemente Tipado
+--------------------------
+
+Deben respetar, puntos y comas, parentesis, etc.
+
+" Hola Mundo! "
+
+Java: System.out.println("Hola mundo!");
+python: print('Hola mundo!')
+
+
+Visual Studio Code
+
+
+1)ctrl+shift(=>) + p
+2)Java:Create Project
+3)No Build Tools
+4)Escritorio < clase turno noche < "Select project location"
+5)Clase 1 (Enter)
+
+
+
+
+
+
+
+
